@@ -78,8 +78,8 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'uplod.png',
-    title: 'Photo hosting website',
-    info: 'This was the final project for my Eleven Fifty coding bootcamp.  I created a database and front end website utilizing React legacy and Typescript.',
+    title: 'Photo Hosting Website',
+    info: 'This was the final project for my Eleven Fifty Coding Bootcamp.  I created a database and front end website utilizing React Legacy and Typescript.',
     info2: '',
     url: 'https://red-badge-wd80-final.herokuapp.com/',
     repo: 'https://github.com/TroySandy/RedBadgeClient',
