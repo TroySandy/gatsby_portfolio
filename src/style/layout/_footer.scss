@@ -8,12 +8,12 @@
   }
 
   &__text {
-    color: darken(white, 50%);
-    font-size: 1rem;
+    color: darken(white, 60%);
+    font-size: 0.75rem;
 
     a {
-      color: darken(white, 50%);
-      font-size: 1rem;
+      color: darken(white, 60%);
+      font-size: 0.75rem;
       transition: all 0.4s;
       display: inline-block;
       background-color: $dark-grey;
