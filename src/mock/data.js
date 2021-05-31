@@ -19,9 +19,9 @@ export const heroData = {
 export const aboutData = {
   img: 'selfie-1.jpeg',
   paragraphOne:
-    'Hello there! You probably landed here looking for a Web Developer and wonder who this clearly aquatic person is. That would be me,  Troy Sandy, a passionate scuba diver/instructor, boat captain and underwater photographer. I started my education and career path in the world of underwater science, mesmerized by the beauty and wonders of the oceans; passionate to learn and explore all the sea had to offer. Eventually I realized I was looking for more and found myself diving head first into the realm of technology. I traded my dive computer for a laptop and began to explore the world of code.',
+    'Hello there! I am Troy Sandy, an ambitious, entry-level web developer, but also a passionate scuba diving instructor, and underwater photographer/videographer. I began my career path in the world of underwater science, mesmerized by the beauty and wonders of the oceans; passionate to learn and explore all the sea had to offer. A medical adversity caused me to readjust my sails, so I embraced a new facet of technology. I traded my dive computer, regulators and cameras for a laptop and began to explore the world of code.',
   paragraphTwo:
-    'With my unique life experiences as an explorer, leader, instructor and team player I look forward to a long career of growth in the world of code. Having just finished a 12 week intensive bootcamp at Eleven Fifty Academy focusing on Web Development and Design, I am ready to jump right into a new team and hit the ground running. I am passionate about creating functional and exciting websites. I look forward to helping you build your next website.',
+    'Utilizing unique life experiences as an explorer, leader, instructor and team player I look forward to conquering the many challenges in the world of code. Having just finished a 12 week intensive boot camp at Eleven Fifty Academy, focusing on Web Development and Design, I am ready to jump right into a new team and hit the ground running. I am passionate about creating functional and exciting websites. I look forward to helping you build your next website. ',
   resume:
     'https://docs.google.com/document/d/1DWgUHcQ4I5BLJyyLmRhl3mBqJqIHPnH4uuM8p1RwaMs/edit?usp=sharing',
 };
